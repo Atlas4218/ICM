@@ -3,7 +3,7 @@
     <string name="app_name">BMI</string>
     <string name="poids_requete">Weight :</string>
     <string name="taille_requete">Height :</string>
-    <string name="poids_label">Enter your weight :</string>
+    <string name="poids_label">Enter your weight (in Kg) :</string>
     <string name="taille_label">Enter your height :</string>
     <string name="radio_mètre">Meter</string>
     <string name="radio_centimètre">Centimeter</string>
