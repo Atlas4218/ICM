@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="poids_requete">Weight :</string>
+    <string name="taille_requete">Height :</string>
+    <string name="poids_label">Enter your weight :</string>
+    <string name="taille_label">Enter your height :</string>
+    <string name="radio_mètre">Meter</string>
+    <string name="radio_centimètre">Centimeter</string>
+    <string name="commentaire_checkbox">Comment</string>
+    <string name="btn_calcul">Calculate BMI</string>
+    <string name="btn_reset">Reset</string>
+    <string name="result_label">Results</string>
+    <string name="resultat_init">You have to click on the button labeled \"Calculate BMI\" to get result</string>
+    <string name="resultat">Your BMI is</string>
+    <string name="toast_taille">The height must be above 0</string>
+    <string name="toast_poids">The weight must be above 0</string>
+    <string name="comment1">Starvation</string>
+    <string name="comment2">Thinness</string>
+    <string name="comment3">Average build</string>
+    <string name="comment4">Overweight</string>
+    <string name="comment5">Moderate obesity</string>
+    <string name="comment6">Severe obesity</string>
+    <string name="comment7">Massive or morbid obesity</string>
+</resources>

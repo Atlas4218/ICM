@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ICM</string>
+    <string name="poids_requete">Poids :</string>
+    <string name="taille_requete">Taille : </string>
+    <string name="poids_label">Déterminez votre poids :</string>
+    <string name="taille_label">Déterminez votre taille :</string>
+    <string name="radio_mètre">Mètre</string>
+    <string name="radio_centimètre">Centimètre</string>
+    <string name="commentaire_checkbox">Appréciation</string>
+    <string name="btn_calcul">Calculer l\'IMC</string>
+    <string name="btn_reset">Reset</string>
+    <string name="result_label">Résultat</string>
+    <string name="resultat_init">Vous devez cliquer sur le bouton \"Calculer l\'IMC\" pour obtenir un résultat</string>
+    <string name="resultat">Votre IMC est</string>
+    <string name="toast_taille">La taille doit être positive</string>
+    <string name="toast_poids">Le poids doit etre positif</string>
+    <string name="comment1">Famine</string>
+    <string name="comment2">Maigreur</string>
+    <string name="comment3">Corpulence normale</string>
+    <string name="comment4">Surpoids</string>
+    <string name="comment5">Obésité modérée</string>
+    <string name="comment6">Obésité sévère</string>
+    <string name="comment7">Obésité morbide ou massive</string>
+
+</resources>
